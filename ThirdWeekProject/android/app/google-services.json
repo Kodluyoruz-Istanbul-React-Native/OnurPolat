@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75079082789",
+    "firebase_url": "https://thirdweekproject-default-rtdb.firebaseio.com",
+    "project_id": "thirdweekproject",
+    "storage_bucket": "thirdweekproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75079082789:android:d5da748d4976f4a5c970cc",
+        "android_client_info": {
+          "package_name": "com.thirdweekproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75079082789-d590p5qsvt8tm7ialndoaj9k93hvhveb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfSLqcyRkQtIV-dNnSg3oghVGcnDLSe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75079082789-d590p5qsvt8tm7ialndoaj9k93hvhveb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75079082789-jlktlndleoffu7dckrrk89fllelq85a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ThirdWeekProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
