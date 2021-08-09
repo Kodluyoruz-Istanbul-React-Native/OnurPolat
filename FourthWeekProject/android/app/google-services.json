@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863831059234",
+    "project_id": "fourthweekproject",
+    "storage_bucket": "fourthweekproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863831059234:android:3bd4fe558457f76d84537b",
+        "android_client_info": {
+          "package_name": "com.fourthweekproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863831059234-ff10dcc5606mn0lpe7cqmv0j6o46lkhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDis-qHBKnY8Xq1qFpnjf2AsQh-Soe_3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863831059234-ff10dcc5606mn0lpe7cqmv0j6o46lkhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863831059234-r1labn7qcnc2lpg62ao85kv2jkvkpc87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FourthWeekProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
